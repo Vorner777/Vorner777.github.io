@@ -42574,35 +42574,34 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 152px;
 }
 
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
+.u-footer .u-icon-1 {
+  width: 144px;
+  height: 144px;
+  margin: 0 466px 8px auto;
+  padding: 0;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
+  .u-footer .u-icon-1 {
+    width: 144px;
+    margin-right: 385px;
   }
 }
 @media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
+  .u-footer .u-icon-1 {
+    margin-right: 295px;
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
+  .u-footer .u-icon-1 {
+    margin-right: 221px;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 340px;
+  .u-footer .u-icon-1 {
+    margin-right: 139px;
   }
 }
 
